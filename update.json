@@ -1,0 +1,13 @@
+{
+  "name": "universal.apk",
+  "size": 1566726,
+  "compressedSize": 1327288,
+  "app": {
+    "name": "Fortified",
+    "package": "com.fortified.chat",
+    "version": {
+      "code": 10001,
+      "name": "1.0.1"
+    }
+  }
+}
